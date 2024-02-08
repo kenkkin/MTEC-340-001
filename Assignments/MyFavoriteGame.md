@@ -16,7 +16,7 @@ The Ori franchise is very dear to me, mainly because the first game, ***Ori and 
 ![ori_blind_forest](https://github.com/kenkkin/MTEC-340-001/assets/144137994/7be3052f-0913-46d1-8f3a-8b0dff196b85)
 **Will of the Wisp's Predecessor: [Ori and the Blind Forest](https://www.orithegame.com/blind-forest/)**
 
-> The forest of Nibel is dying. After a powerful storm sets a series of devastating events in motion, an unlikely hero must journey to find their courage and confront a dark nemesis to save their home. Join Ori, the last Spirit Guardian, as they discover the mysteries of a decaying forest while escaping the evil clutches of Kuro, the dark owl. Play through a beautifully created environment while combating Kuro and completing in-game puzzles to help Ori save the forest.
+The forest of Nibel is dying. After a powerful storm sets a series of devastating events in motion, an unlikely hero must journey to find their courage and confront a dark nemesis to save their home. Join Ori, the last Spirit Guardian, as they discover the mysteries of a decaying forest while escaping the evil clutches of Kuro, the dark owl. Play through a beautifully created environment while combating Kuro and completing in-game puzzles to help Ori save the forest.
 </br>
 
 ![hollow_knight](https://github.com/kenkkin/MTEC-340-001/assets/144137994/fe3654c7-3269-48b2-bb3d-0d3ca802b4fc) </br>
